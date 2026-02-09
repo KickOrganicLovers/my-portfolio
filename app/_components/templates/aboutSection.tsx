@@ -14,14 +14,14 @@ export default function AboutSection() {
           <div className="space-y-6">
             <div className="aspect-square rounded-2xl overflow-hidden border border-white/10">
               <img
-                src="/my_image.jpg"
+                src="/my-portfolio/my_image.jpg"
                 alt="Ukyo Takamatsu"
                 className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
               />
             </div>
             <div className="space-y-2">
               <p className="text-sm uppercase tracking-widest text-white/40">Location</p>
-              <p className="text-white/80">Tokyo, Japan</p>
+              <p className="text-white/80">Chiba, Japan</p>
             </div>
           </div>
           <div className="space-y-8 text-white/70 text-lg leading-relaxed">
